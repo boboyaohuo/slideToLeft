@@ -10,7 +10,7 @@
 <ul>
   <li class="sl-li ui-border-b">
     <div class="sl-content">
-      // 这里是内容这里是内容
+      // 这里是内容这里是 内容
     </div>
     <div class="sl-opts">
       // <span>删除</span> 这里是左滑后需展示的按钮组
